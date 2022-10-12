@@ -25,14 +25,6 @@
 hs_err_pid*
 
 
-
-
-# input and output files for USACO
-*.in
-*.out
-
-
-
 # C++
 # Prerequisites
 *.d
@@ -66,3 +58,9 @@ hs_err_pid*
 *.exe
 *.out
 *.app
+
+
+# input and output files for competitive programming
+*.in
+*.out
+*.txt
